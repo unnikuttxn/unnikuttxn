@@ -1,16 +1,40 @@
-### Hi there 👋
+#  **Hello folks**
+## _welcome_
+---
 
-<!--
-**unnikuttxn/unnikuttxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a forth year mechanical engineering student from Indian Institute of Technology Madras
+-  Fluent in HTML, Python, JS,CSS
+- Interested in working with HTML, Python,  CAD, and related projects
+- Interested in working on ML Projects, Computer vision, Web design
 
-Here are some ideas to get you started:
+- From Kerala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+### Connect with me:
+[Instagram](https://www.instagram.com/___.unnikuttan)<br />
+[LinkedIn](https://www.linkedin.com/in/adith-chandrababu-53098b228/)<br />
+[Twitter](https://twitter.com/unnikuttxn)
+
+
+
+
+
+<br />
+<br />
+
+
+
+
+
+
+
+### Languages: 
+- Python
+- HTML
+- CSS
+- Javascript
+- C
+
