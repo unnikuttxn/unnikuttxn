@@ -2,7 +2,8 @@
 ## _welcome_
 ---
 
-- I'm a forth year mechanical engineering student from Indian Institute of Technology Madras
+- I'm a forth year Mechanical Engineering student from Indian Institute of Technology Madras
+- High interest in coding
 -  Fluent in HTML, Python, JS,CSS
 - Interested in working with HTML, Python,  CAD, and related projects
 - Interested in working on ML Projects, Computer vision, Web design
