@@ -36,6 +36,6 @@
 - Python
 - HTML
 - CSS
-- Javascript
+- C++
 - C
 
