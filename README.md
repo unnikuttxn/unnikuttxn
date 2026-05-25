@@ -18,18 +18,4 @@
 
 
 <br />
-<br />
-
-
-
-
-
-
-
-### Languages: 
-- Python
-- HTML
-- CSS
-- C++
-- C
 
